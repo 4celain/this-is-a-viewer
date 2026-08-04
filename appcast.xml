@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>This Is a Viewer</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 04 Aug 2026 20:48:32 +0900</pubDate>
+            <link>https://github.com/4celain/this-is-a-viewer/releases/latest</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/4celain/this-is-a-viewer/releases/download/v0.1.0/This-Is-a-Viewer-0.1.0-build.8-arm64.dmg" length="1750782" type="application/octet-stream" sparkle:edSignature="vWEMVraP2ASwsxBImerNreuC43LoPlVcid3HirdYqvqkGffLqCUaChtYAPhtvx/CjDAS6w1RU//6m8jTDSjDAQ=="/>
+        </item>
+    </channel>
+</rss>
