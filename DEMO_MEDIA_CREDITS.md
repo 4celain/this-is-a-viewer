@@ -4,8 +4,8 @@
 
 The application itself does not bundle the marketing demo media listed here.
 This file covers only media used on the public download page or in release
-screenshots. The App Store screenshots were captured from the installed
-version 0.1.0 (build 6) application.
+screenshots. App Store screenshots were captured from an installed release
+candidate of the application.
 
 ### An aerial view of a wave in the ocean
 
@@ -69,7 +69,7 @@ version 0.1.0 (build 6) application.
 
 앱 자체에는 아래의 마케팅용 데모 미디어가 포함되지 않습니다. 이 문서는
 공개 다운로드 페이지와 릴리스 스크린샷에 사용된 미디어만 다룹니다.
-App Store 스크린샷은 설치된 0.1.0(빌드 6) 앱에서 캡처했습니다.
+App Store 스크린샷은 설치된 배포 후보 앱에서 캡처했습니다.
 
 ### An aerial view of a wave in the ocean
 

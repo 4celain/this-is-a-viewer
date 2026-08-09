@@ -6,12 +6,12 @@
 <h1 align="center">This is a Viewer</h1>
 
 <p align="center">
-  <strong>A fast, native macOS viewer for still images and animation.</strong>
+  <strong>A fast, native macOS viewer for images, animation and short local videos.</strong>
 </p>
 
-Open still images and play GIF, APNG and animated WebP. Browse folders and
-ZIP/CBZ archives with single-page, two-page and webtoon layouts, or run a
-slideshow.
+Open still images, play GIF, APNG and animated WebP, and view short local
+MP4, M4V and MOV clips in the same browsing flow. Browse folders and ZIP/CBZ
+archives with single-page, two-page and webtoon layouts, or run a slideshow.
 
 ![This is a Viewer browsing a high-resolution image folder](assets/this-is-a-viewer-overview.png)
 
@@ -28,6 +28,10 @@ Download the notarized DMG and move the app to the Applications folder.
 
 - JPEG, PNG/APNG, GIF, WebP, HEIC/HEIF, AVIF, TIFF, BMP, ICO and DDS
 - Playback, pause and frame navigation for GIF, APNG and animated WebP
+- Muted, looping playback for local MP4, M4V and MOV, with scrubbing and
+  0.5×–2× speed controls
+- Motion badges and optional duration labels for animated and video thumbnails
+- Area selection and copy from a paused animation or video frame
 - Natural sorting across files, folders and ZIP/CBZ archives
 - A resizable thumbnail sidebar with configurable columns
 - Single-page, two-page and webtoon layouts, plus slideshows
@@ -39,21 +43,19 @@ Download the notarized DMG and move the app to the Applications folder.
 Every viewing feature is free. The app contains no ads, accounts, analytics or
 tracking, and never modifies an original file unless you explicitly request it.
 
-## Animation
+## Animation and video
 
 GIF, APNG and animated WebP play with pause and frame navigation controls.
+Short local MP4, M4V and MOV clips play muted and loop automatically, with
+time scrubbing, speed control and one-second keyboard seeking.
 
 ![This is a Viewer playing an animated WebP](assets/this-is-a-viewer-demo.webp)
-
-## Updates
-
-The Direct build supports signed updates through Sparkle. Automatic checks are
-enabled only with your permission.
 
 ## Support
 
 - [Support](SUPPORT.md)
 - [Report a bug](https://github.com/4celain/this-is-a-viewer/issues/new)
+- [Security Policy](SECURITY.md)
 - [Privacy Policy](PRIVACY.md)
 - [Third-party notices](THIRD_PARTY_NOTICES.txt)
 
@@ -69,8 +71,9 @@ It does not contain the application source code.
 <summary><strong>한국어 안내</strong></summary>
 
 This is a Viewer는 이미지를 빠르게 열고 자연스럽게 넘겨 보는 macOS
-네이티브 이미지 뷰어입니다. 정지 이미지와 GIF·APNG·animated WebP,
-폴더와 ZIP/CBZ 탐색, 한 장·두 장·웹툰 보기와 슬라이드쇼를 지원합니다.
+네이티브 뷰어입니다. 정지 이미지와 GIF·APNG·animated WebP뿐 아니라
+로컬 MP4·M4V·MOV를 같은 탐색 흐름에서 열 수 있습니다. 폴더와 ZIP/CBZ
+탐색, 한 장·두 장·웹툰 보기와 슬라이드쇼도 지원합니다.
 
 ### 다운로드
 
@@ -85,6 +88,10 @@ This is a Viewer는 이미지를 빠르게 열고 자연스럽게 넘겨 보는 
 
 - JPEG, PNG/APNG, GIF, WebP, HEIC/HEIF, AVIF, TIFF, BMP, ICO, DDS
 - GIF·APNG·animated WebP 재생, 일시정지와 프레임 이동
+- 로컬 MP4·M4V·MOV의 기본 음소거·자동 반복 재생, 시간 탐색과
+  0.5×–2× 배속
+- 애니메이션·비디오 썸네일 배지와 선택 가능한 재생 시간
+- 정지한 애니메이션·비디오 프레임의 영역 선택 복사
 - 여러 파일, 폴더, ZIP/CBZ와 자연 정렬 탐색
 - 크기 조절·다중 열을 지원하는 썸네일 사이드바
 - 한 장, 두 장, 웹툰 보기와 슬라이드쇼
@@ -95,15 +102,11 @@ This is a Viewer는 이미지를 빠르게 열고 자연스럽게 넘겨 보는 
 모든 보기 기능은 무료입니다. 광고·계정·분석·추적을 포함하지 않으며,
 사용자가 명시적으로 요청하지 않으면 원본 파일을 수정하지 않습니다.
 
-### 업데이트
-
-Direct판은 Sparkle을 통한 서명된 업데이트를 지원하며, 자동 확인은 사용자
-동의 후에만 활성화됩니다.
-
 ### 지원
 
 - [지원 안내](SUPPORT.md)
 - [버그 제보](https://github.com/4celain/this-is-a-viewer/issues/new)
+- [보안 정책](SECURITY.md)
 - [개인정보 처리방침](PRIVACY.md)
 - [오픈소스 고지](THIRD_PARTY_NOTICES.txt)
 

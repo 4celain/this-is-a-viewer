@@ -1,16 +1,4 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>This Is a Viewer</title>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 08 Aug 2026 12:40:36 +0900</pubDate>
-            <link>https://github.com/4celain/this-is-a-viewer/releases/latest</link>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# This is a Viewer 0.2.0
+# This is a Viewer 0.2.0
 
 ## English
 
@@ -67,8 +55,3 @@ Requires an Apple Silicon Mac with macOS 14 or later.
 PDF 보기는 0.3.0에서 별도로 진행할 예정입니다.
 
 macOS 14 이상이 설치된 Apple Silicon Mac이 필요합니다.
-]]></description>
-            <enclosure url="https://github.com/4celain/this-is-a-viewer/releases/download/v0.2.0/This-Is-a-Viewer-0.2.0-build.11-arm64.dmg" length="1905341" type="application/octet-stream" sparkle:edSignature="pfS69cbxXQMAyVbzek/hIxJHKU1G5kaVbxGE9lJU4j2gS7RJkvyGJqS+Jwv5+AWBdW/YHYNBo8p0TgJt0RISAA=="/>
-        </item>
-    </channel>
-</rss>

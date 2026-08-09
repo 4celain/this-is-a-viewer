@@ -2,16 +2,17 @@
 
 ## English
 
-Effective date: July 29, 2026
+Effective date: August 7, 2026
 
-This is a Viewer processes only the information needed to view images on the
-user's Mac. It does not use advertising, user accounts, analytics SDKs,
+This is a Viewer processes only the information needed to view local media on
+the user's Mac. It does not use advertising, user accounts, analytics SDKs,
 behavioral tracking, or a developer-operated server.
 
-### Images and files
+### Media and files
 
-- Images, folders, and archives explicitly opened by the user are read only on
-  the device for display and navigation.
+- Images, short local videos, folders, and archives explicitly opened by the
+  user are read only on the device for display, playback, thumbnails, and
+  navigation.
 - Original files are not modified or moved unless the user explicitly requests
   a rename or Move to Trash action.
 - File contents, thumbnails, file names, and local paths are never sent to the
@@ -58,16 +59,16 @@ images, file names, local paths, or other private information unless necessary.
 
 ## 한국어
 
-시행일: 2026-07-29
+시행일: 2026-08-07
 
-This is a Viewer는 이미지 열람에 필요한 정보만 사용자의 Mac 안에서
+This is a Viewer는 로컬 미디어 열람에 필요한 정보만 사용자의 Mac 안에서
 처리합니다. 광고, 사용자 계정, 분석 SDK, 행동 추적 또는 자체 서버를
 사용하지 않습니다.
 
-### 이미지와 파일
+### 미디어와 파일
 
-- 사용자가 직접 연 이미지, 폴더와 압축파일은 화면 표시와 탐색을 위해
-  기기 안에서만 읽습니다.
+- 사용자가 직접 연 이미지, 짧은 로컬 비디오, 폴더와 압축파일은 화면
+  표시, 재생, 썸네일 생성과 탐색을 위해 기기 안에서만 읽습니다.
 - 원본 파일은 사용자가 이름 변경 또는 휴지통 이동을 명시적으로 요청한
   경우를 제외하고 수정하거나 이동하지 않습니다.
 - 파일 내용, 썸네일, 파일명과 로컬 경로를 개발자에게 자동 전송하지
