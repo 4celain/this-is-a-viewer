@@ -1,16 +1,4 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>This Is a Viewer</title>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Thu, 13 Aug 2026 15:25:50 +0900</pubDate>
-            <link>https://github.com/4celain/this-is-a-viewer/releases/latest</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# This is a Viewer 0.2.1
+# This is a Viewer 0.2.1
 
 ## English
 
@@ -51,8 +39,3 @@ Requires an Apple Silicon Mac with macOS 14 or later.
   사이드바가 흔들려 보이던 현상을 수정했습니다.
 
 macOS 14 이상이 설치된 Apple Silicon Mac이 필요합니다.
-]]></description>
-            <enclosure url="https://github.com/4celain/this-is-a-viewer/releases/download/v0.2.1/This-Is-a-Viewer-0.2.1-build.12-arm64.dmg" length="1903442" type="application/octet-stream" sparkle:edSignature="FcyybT2xJlTWXZwhXBiYh/NMQOdt3hNQjAQiLNFjAC+TVNdhK7trV4WB9mxCgql88WjhwigzKsUs7sHDK1XYDQ=="/>
-        </item>
-    </channel>
-</rss>

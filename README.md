@@ -17,9 +17,12 @@ archives with single-page, two-page and webtoon layouts, or run a slideshow.
 
 ## Download
 
-**[Download the latest release](https://github.com/4celain/this-is-a-viewer/releases/latest)**
+- **[Mac App Store](https://apps.apple.com/app/this-is-a-viewer/id6797867939?mt=12)**
+- **[Direct download](https://github.com/4celain/this-is-a-viewer/releases/latest)**
 
-Download the notarized DMG and move the app to the Applications folder.
+The Mac App Store and Direct editions provide the same viewing features. The
+Direct edition uses a notarized DMG and Sparkle updates; move the downloaded
+app to the Applications folder.
 
 > [!NOTE]
 > Requires an Apple Silicon Mac running macOS 14 Sonoma or later.
@@ -77,12 +80,14 @@ This is a Viewer는 이미지를 빠르게 열고 자연스럽게 넘겨 보는 
 
 ### 다운로드
 
-[최신 버전 다운로드](https://github.com/4celain/this-is-a-viewer/releases/latest)
+- [Mac App Store](https://apps.apple.com/app/this-is-a-viewer/id6797867939?mt=12)
+- [Direct판 최신 버전](https://github.com/4celain/this-is-a-viewer/releases/latest)
 
 - Apple Silicon Mac
 - macOS 14 Sonoma 이상
 
-공증된 DMG를 내려받아 앱을 Applications 폴더로 옮기면 됩니다.
+두 배포판의 보기 기능은 같습니다. Direct판은 공증된 DMG를 내려받아
+앱을 Applications 폴더로 옮기며 Sparkle로 업데이트합니다.
 
 ### 주요 기능
 
