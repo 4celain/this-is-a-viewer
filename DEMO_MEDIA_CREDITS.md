@@ -7,25 +7,15 @@ This file covers only media used on the public download page or in release
 screenshots. App Store screenshots were captured from an installed release
 candidate of the application.
 
-### An aerial view of a wave in the ocean
+### Waving reeds cinemagraph
 
-- Creator: Geio Tischler
-- Source: <https://unsplash.com/photos/an-aerial-view-of-a-wave-in-the-ocean-p_VHz_c17M0>
-- License: [Unsplash License](https://unsplash.com/license)
-- Changes: a 3840×2558 download was displayed in the installed application
-  and captured as the light-mode GitHub overview. Additional CC0 and public-
-  domain demo images appear only as small sidebar thumbnails. No source photo
-  is bundled with the app or download repository.
-
-### Waves, ocean, sea, beach, Byron Bay
-
-- Creator: daniloriba
-- Source: <https://pixabay.com/videos/waves-ocean-sea-beach-byron-bay-70796/>
-- License: [Pixabay Content License](https://pixabay.com/service/license-summary/)
-- Changes: approximately 2.4 seconds of the 3840×2160 source were converted
-  without audio to a 1280×720, 15 fps animated WebP. Its actual playback,
-  pause control and frame counter were captured in the installed application
-  as a 14-frame, 1114×769 animated WebP.
+- Creator: Johan Blomström
+- Source: <https://commons.wikimedia.org/wiki/File:Waving_reeds_cinemagraph.gif>
+- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- Changes: the original GIF and an animated WebP conversion were opened in an
+  installed `0.2.2 (13)` build. A paused frame was captured in dark mode at
+  1275×768 with the folder navigator and thumbnail sidebar visible. The source
+  media is not bundled with the app or download repository.
 
 ### Palm Tree Forest
 
@@ -71,25 +61,15 @@ candidate of the application.
 공개 다운로드 페이지와 릴리스 스크린샷에 사용된 미디어만 다룹니다.
 App Store 스크린샷은 설치된 배포 후보 앱에서 캡처했습니다.
 
-### An aerial view of a wave in the ocean
+### Waving reeds cinemagraph
 
-- 제작자: Geio Tischler
-- 출처: <https://unsplash.com/photos/an-aerial-view-of-a-wave-in-the-ocean-p_VHz_c17M0>
-- 라이선스: [Unsplash License](https://unsplash.com/license)
-- 변경 사항: 3840×2558 이미지를 설치된 앱에 표시하여 라이트 모드
-  GitHub 대표 이미지로 캡처했습니다. 추가 CC0·퍼블릭 도메인 데모
-  이미지는 작은 사이드바 썸네일로만 표시됩니다. 원본 사진은 앱이나
-  다운로드 저장소에 포함되지 않습니다.
-
-### Waves, ocean, sea, beach, Byron Bay
-
-- 제작자: daniloriba
-- 출처: <https://pixabay.com/videos/waves-ocean-sea-beach-byron-bay-70796/>
-- 라이선스: [Pixabay Content License](https://pixabay.com/service/license-summary/)
-- 변경 사항: 3840×2160 원본 중 약 2.4초를 오디오 없이 1280×720,
-  15fps animated WebP로 변환했습니다. 실제 재생·일시정지·프레임
-  카운터를 설치된 앱에서 14프레임, 1114×769 animated WebP로
-  캡처했습니다.
+- 제작자: Johan Blomström
+- 출처: <https://commons.wikimedia.org/wiki/File:Waving_reeds_cinemagraph.gif>
+- 라이선스: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- 변경 사항: 원본 GIF와 animated WebP 변환본을 설치된 `0.2.2 (13)`
+  앱에서 열었습니다. 폴더 탐색기와 썸네일 사이드바가 보이도록 재생을
+  멈춘 다크 모드 화면을 1275×768로 캡처했습니다. 원본 미디어는 앱이나
+  다운로드 저장소에 포함하지 않습니다.
 
 ### Palm Tree Forest
 

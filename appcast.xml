@@ -16,9 +16,9 @@ This update adds a collapsible folder navigator with Favorites and Recents,
 container-first sorting across multiple folders and ZIP/CBZ archives, and
 safer keyboard behavior in the folder navigator.
 
-The update signing keys changed during credential recovery. To preserve the
-security boundary, this release requires one manual installation from the
-GitHub release page. Future Direct updates can then install automatically.
+The update signing information has changed, so this update must be installed
+manually once. Download the 0.2.2 DMG and install it over the existing app.
+Automatic updates will resume after that.
 
 Requires an Apple Silicon Mac with macOS 14 or later.
 
@@ -28,9 +28,9 @@ Requires an Apple Silicon Mac with macOS 14 or later.
 여러 폴더와 ZIP/CBZ의 컨테이너 우선 정렬, 폴더 탐색기의 안전한 키보드
 동작을 추가합니다.
 
-자격 증명 복구 과정에서 업데이트 서명 키가 변경되었습니다. 보안 경계를
-유지하기 위해 이번 버전은 GitHub Release 페이지에서 한 번 직접 설치해야
-합니다. 이후 Direct판 업데이트는 다시 자동으로 설치할 수 있습니다.
+업데이트 서명 정보가 변경되어 이번 업데이트만 직접 설치해야 합니다.
+0.2.2 DMG를 받아 기존 앱 위에 설치하면 됩니다. 이후부터는 다시 자동
+업데이트됩니다.
 
 macOS 14 이상이 설치된 Apple Silicon Mac이 필요합니다.
 ]]></description>
