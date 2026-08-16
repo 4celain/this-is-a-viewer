@@ -35,7 +35,9 @@ app to the Applications folder.
   0.5×–2× speed controls
 - Motion badges and optional duration labels for animated and video thumbnails
 - Area selection and copy from a paused animation or video frame
-- Natural sorting across files, folders and ZIP/CBZ archives
+- A collapsible folder navigator with favorites, recent locations and lazy
+  tree expansion
+- Container-first natural sorting across multiple folders and ZIP/CBZ archives
 - A resizable thumbnail sidebar with configurable columns
 - Single-page, two-page and webtoon layouts, plus slideshows
 - Zoom, rotation, Show in Finder, sharing and image information
@@ -97,7 +99,8 @@ This is a Viewer는 이미지를 빠르게 열고 자연스럽게 넘겨 보는 
   0.5×–2× 배속
 - 애니메이션·비디오 썸네일 배지와 선택 가능한 재생 시간
 - 정지한 애니메이션·비디오 프레임의 영역 선택 복사
-- 여러 파일, 폴더, ZIP/CBZ와 자연 정렬 탐색
+- 즐겨찾기·최근 위치와 필요한 항목만 펼치는 접이식 폴더 탐색기
+- 여러 폴더와 ZIP/CBZ의 컨테이너 우선 자연 정렬 탐색
 - 크기 조절·다중 열을 지원하는 썸네일 사이드바
 - 한 장, 두 장, 웹툰 보기와 슬라이드쇼
 - 확대, 회전, Finder에서 보기, 공유와 이미지 정보
